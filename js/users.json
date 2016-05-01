@@ -2,8 +2,8 @@
   "users": [
     {
     	"userImgURL": "icons/profile-pic-1.jpg",
-		"userName": "Pete Smith",
-		"userEmail": "petersmith@gmail.com",
+		"userName": "Tony Kobiashvili",
+		"userEmail": "tonyKob@gmail.com",
 		"userSignupDate": "10/15/15"
     },
     {
@@ -20,8 +20,8 @@
     },
     {
 		"userImgURL": "icons/profile-pic-4.jpg",
-		"userName": "Franky",
-		"userEmail": "bigfrank@gmail.com",
+		"userName": "Miguel Quito",
+		"userEmail": "miguelND@gmail.com",
 		"userSignupDate": "10/15/15"
     }
   ]

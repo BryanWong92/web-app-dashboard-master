@@ -2,7 +2,7 @@
   "activity": [
   	{
   		"userImgURL": "icons/profile-pic-1.jpg",
-  		"userName": "Pete Smith",
+  		"userName": "Tony Kobiashvili",
 		"userAction": "commented on",
 		"groupName": "YourApp's SEO Tips",
 		"activityTime": "4 hours ago"
@@ -23,7 +23,7 @@
 	},
 		{
 		"userImgURL": "icons/profile-pic-4.jpg",
-  		"userName": "Franky",
+  		"userName": "Miguel Quito",
 		"userAction": "posted",
 		"groupName": "YourApp's SEO Tips",
 		"activityTime": "1 day ago"

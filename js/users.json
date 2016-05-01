@@ -3,7 +3,7 @@
     {
     	"userImgURL": "icons/profile-pic-1.jpg",
 		"userName": "Tony Kobiashvili",
-		"userEmail": "tonyKob@gmail.com",
+		"userEmail": "tonykob@gmail.com",
 		"userSignupDate": "10/15/15"
     },
     {
@@ -21,7 +21,7 @@
     {
 		"userImgURL": "icons/profile-pic-4.jpg",
 		"userName": "Miguel Quito",
-		"userEmail": "miguelND@gmail.com",
+		"userEmail": "miguelnd@gmail.com",
 		"userSignupDate": "10/15/15"
     }
   ]

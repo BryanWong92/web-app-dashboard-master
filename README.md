@@ -1,3 +1,3 @@
 front-end web-app-dashboard
 
-bryanwong92.github.io/web-app-dashboard-master
+http://bryanwong92.github.io/web-app-dashboard-master

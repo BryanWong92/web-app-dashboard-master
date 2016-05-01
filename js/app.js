@@ -11,18 +11,18 @@ $(document).ready(function() {
 
 		$.each(data, function(arrayID, key) {
 
-			$.each(key, function(userID, userData){
+			// $.each(key, function(userID, userData){
 
-				// HTML = '<div class="new-member-container clearfix">';
-				// HTML += '<img src="' + userData.userImgURL + '" alt="profile picture" class="new-member-profile-image">';
-				// HTML += '<div class="new-user-name-date-container">';
-				// HTML += '<div class="new-user-name dark-gray-font">' + userData.userName + '</div>';
-				// HTML += '<div class="new-user-email purple-font"><a href="mailto:' + userData.userEmail + '">' + userData.userEmail + '</a></div>';
-				// HTML += '</div> <!-- closing new-user-name-date-container -->';
- 			// 	HTML += '<div class="new-user-date gray-font">10/15/15</div>';
- 			// 	HTML += '</div> <!-- closing new-member-container -->';
+			// 	// HTML = '<div class="new-member-container clearfix">';
+			// 	// HTML += '<img src="' + userData.userImgURL + '" alt="profile picture" class="new-member-profile-image">';
+			// 	// HTML += '<div class="new-user-name-date-container">';
+			// 	// HTML += '<div class="new-user-name dark-gray-font">' + userData.userName + '</div>';
+			// 	// HTML += '<div class="new-user-email purple-font"><a href="mailto:' + userData.userEmail + '">' + userData.userEmail + '</a></div>';
+			// 	// HTML += '</div> <!-- closing new-user-name-date-container -->';
+ 		// 	// 	HTML += '<div class="new-user-date gray-font">10/15/15</div>';
+ 		// 	// 	HTML += '</div> <!-- closing new-member-container -->';
         
- 			// 	$('.new-members').append(HTML);
+ 		// 	// 	$('.new-members').append(HTML);
 			});
 		});
     }

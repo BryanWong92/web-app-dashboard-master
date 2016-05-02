@@ -19,8 +19,9 @@ $(document).ready(function() {
 				HTML += '<div class="new-user-name dark-gray-font">' + userData.userName + '</div>';
 				HTML += '<div class="new-user-email purple-font"><a href="mailto:' + userData.userEmail + '">' + userData.userEmail + '</a></div>';
 				HTML += '</div> <!-- closing new-user-name-date-container -->';
- 				HTML += '<div class="new-user-date gray-font">10/15/15</div>';
  				HTML += '</div> <!-- closing new-member-container -->';
+ 				HTML += '<div class="new-user-date gray-font">10/15/15</div>';
+
         
  				$('.new-members').append(HTML);
 			});

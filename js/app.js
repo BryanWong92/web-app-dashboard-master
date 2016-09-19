@@ -21,6 +21,8 @@ $(document).ready(function() {
 				HTML += '</div> <!-- closing new-user-name-date-container -->';
  				HTML += '<div class="new-user-date gray-font">10/15/15</div>';
  				HTML += '</div> <!-- closing new-member-container -->';
+
+
         
  				$('.new-members').append(HTML);
 			});
@@ -39,8 +41,8 @@ $(document).ready(function() {
 				HTML += '<div class="new-user-name dark-gray-font">' + activityData.userName + ' ' + activityData.userAction + '<span class="dark-gray-font">' + ' ' + activityData.groupName + '</span></div>';
 				HTML += '<div class="new-user-email dark-gray-font">' + activityData.activityTime + '</div>';
 				HTML += '</div> <!-- closing new-user-name-date-container -->';
+				HTML += '</div> <!-- closing new-member-container -->';
  				HTML += '<div class="new-user-date"><i class="fa fa-angle-right fa-2x purple-font"></i></div>';
- 				HTML += '</div> <!-- closing new-member-container -->';
         
  				$('.recent-activity').append(HTML);
 			});
